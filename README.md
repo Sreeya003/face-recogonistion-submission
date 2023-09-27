@@ -2,11 +2,11 @@ This Python face recognition system uses OpenCV and the face_recognition module 
 
 Steps to run the code and the work process:
 
-a) Install the required libraries.
-b) Create a folder and upload the jpg or png files of the person along with the name to be displayed as the file name.
-c) Run the code using the command prompt.
-d) The web cam will open and start capturing video frames.
-e) It enters a loop that continuously takes video frames from the camera.
-f) It extracts the location and name of each detected face, then labels the rectangle surrounding the face with the extracted information. 
-g) It shows the updated frame with face rectangles and labels.
-h) The execution stops when we enter the esc key.
+Install the required libraries.
+Create a folder and upload the jpg or png files of the person along with the name to be displayed as the file name.
+Run the code using the command prompt.
+The web cam will open and start capturing video frames.
+It enters a loop that continuously takes video frames from the camera.
+It extracts the location and name of each detected face, then labels the rectangle surrounding the face with the extracted information. 
+It shows the updated frame with face rectangles and labels.
+The execution stops when we enter the esc key.
