@@ -29,4 +29,4 @@ while True:
         break
 video_capture.release()
 cv2.destroyAllwindows()
-#realease the webcam and destroy all the OpenCV Windows
+# release the webcam and destroy all the OpenCV Windows
